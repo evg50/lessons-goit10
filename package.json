@@ -6,7 +6,7 @@
   "homepage": "https://github.com/evg50/lessons-goit10",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url evg50/lessons-goit10#:~:text=evg50,lessons-goit10",
+    "build": "parcel build src/*.html --public-url /lessons-goit10/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
