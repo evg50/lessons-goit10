@@ -15,4 +15,4 @@ const e={LIGHT:"light-theme",DARK:"dark-theme"},t=document.querySelector("#theme
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");var e=s(require("./menu.json")),r=s(require("./templates/cardTemplate.hbs"));function s(e){return e&&e.__esModule?e:{default:e}}require("./markup"),require("./changeTheme");
 },{"./sass/main.scss":"clu1","./menu.json":"mA8c","./templates/cardTemplate.hbs":"Tawn","./markup":"EzL3","./changeTheme":"Ypxd"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-10-food-service/src.cf7b1dff.js.map
+//# sourceMappingURL=/evg50/lessons-goit10/src.cf7b1dff.js.map
